@@ -1,1 +1,1 @@
-From-scratch MATLAB implementation of the DFT/IDFT with FFT benchmarking, frequency-domain convolution, and spectral analysis applied to real audio recordings
+From-scratch MATLAB implementation of the DFT/IDFT with FFT benchmarking, frequency-domain convolution, and spectral analysis applied to real audio recordings, developed for EEL3135 - Signals and Systems at UF
